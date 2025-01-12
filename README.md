@@ -15,7 +15,8 @@ This project contains a single Python script, `youtube.py`, which provides a sim
 ## 🚀 Installation
 
 1. Clone the repository:
-    ``` git clone <repository-url>
+    ```
+        git clone <repository-url>
         cd <repository-directory>
     ```
 
